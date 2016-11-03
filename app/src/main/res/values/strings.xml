@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Task Manager</string>
+    <string name="nueva_tarea">Nueva Tarea</string>
+    <string name="nuevo_contacto">Nuevo Contacto</string>
+    <string name="title_activity_create_tarea">Crear Tarea</string>
+    <string name="agregar_tarea">AGREGAR TAREA</string>
+    <string name="volver_menu">VOLVER MENU</string>
+    <string name="titulo_label">Titulo</string>
+    <string name="fecha_inicio_label">Fecha de Inicio</string>
+    <string name="lista_items_label">Lista de Items</string>
+    <string name="fecha_fin_label">Fecha de Fin</string>
+    <string name="contact_nombre_label">Nombre</string>
+    <string name="contact_dni_label">Dni</string>
+    <string name="contact_correo_label">Correo</string>
+    <string name="contact_numero_label">Numero</string>
+    <string name="contact_crear">Agregar Contacto</string>
+</resources>
